@@ -1,13 +1,4 @@
-"""
-Lab Assignment 4 - Information Security (Python Implementation)
-Includes:
-- Task 1: Simple RSA Implementation (without external libraries) using small primes
-- Task 2: RSA using PyCryptodome (if available). If not installed, instructions are printed.
-- Task 3: Create and verify a digital signature (uses PyCryptodome if available, else a manual method)
 
-Author: Generated for student submission
-Comments: This file includes explanatory comments. Run with Python 3.8+.
-"""
 
 # Standard library imports
 import math
